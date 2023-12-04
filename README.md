@@ -1,5 +1,5 @@
 # 👋 Olá, Devs
-### Meu nome é Diego André e meu apelido é Mia Antunes!
+### Meu nome é Diego André!
 
 - 📍 Localização: Florianópolis, Santa Catarina
 - 🎂 Idade: Tenho 25 anos
