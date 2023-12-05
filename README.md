@@ -3,7 +3,7 @@
 
 - 📍 Localização: Florianópolis, Santa Catarina
 - 🎂 Idade: Tenho 25 anos
-- 💻 Profissão: Sou Desenvolvedor Full Stack
+- 💻 Profissão: Desenvolvedor Full Stack
 
 
 ## Como entrar em contato comigo
