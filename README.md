@@ -61,19 +61,6 @@
 ---
  
 <br>
- <div style="display: inline_block">
-    <img width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-    <img width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-   <img width="50px" margin="10px" src="" />
- </div>
-
- ---
-
 
 ## Formação
 <img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/h7EYCYFSVNHD09-7EUqDVOEM9BTDdnuuKuQoSpL-4VjWIjeF-6gDDDdViCp5j2MwzO8LexnKoN0=s900-c-k-c0x00ffffff-no-rj"/>
