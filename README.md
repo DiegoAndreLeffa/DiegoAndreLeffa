@@ -64,9 +64,10 @@
 
 ## Formação
 <img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/h7EYCYFSVNHD09-7EUqDVOEM9BTDdnuuKuQoSpL-4VjWIjeF-6gDDDdViCp5j2MwzO8LexnKoN0=s900-c-k-c0x00ffffff-no-rj"/>
-**Desenvolvedor Full Stack** \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `Styled-components`
-<br/>Linguagens & Tecnologias - Back-end: `Typescript`, `Node.js`, `APIs Rest`, `SQL`, `SQL lite`, `MySQL` , `Express`, `Jest`, `Git`, `Github`, `Testes Unitários`,
+Desenvolvedor Full Stack
+<br>
+Linguagens & Tecnologias - Front-end: HTML, CSS, DOM, JavaScript, React.js, Styled-components
+<br/>Linguagens & Tecnologias - Back-end: Typescript, Node.js, APIs Rest, SQL, SQL lite, MySQL , Express, Jest, Git, Github, Testes Unitários
 
 ---
 
