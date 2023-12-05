@@ -70,7 +70,6 @@ Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React
 
 ---
 
-## Estatísticas
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Status </b>
 <br>
 
