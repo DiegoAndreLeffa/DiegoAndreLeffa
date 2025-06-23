@@ -2,7 +2,7 @@
 ### Meu nome é Diego André!
 
 - 📍 Localização: Florianópolis, Santa Catarina
-- 🎂 Idade: Tenho 25 anos
+- 🎂 Idade: Tenho 26 anos
 - 💻 Profissão: Desenvolvedor Full Stack
 
 
