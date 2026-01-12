@@ -4,6 +4,7 @@
 - 📍 Localização: Florianópolis, Santa Catarina
 - 🎂 Idade: Tenho 26 anos
 - 💻 Profissão: Desenvolvedor Full Stack
+  
 [Portfolio](https://my-portfolio-xi-murex.vercel.app/)
 
 ## Como entrar em contato comigo
